@@ -1,0 +1,109 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files that are written to disk automatically
+*.tfvars
+
+# .tfplan files
+*.tfplan
+
+# Crash log files
+crash.log
+
+# Ignore override files as they are usually used to override resources locally and so
+# are not checked in
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Include override files you do wish to add to version control using negated pattern
+#
+# !example_override.tf
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+
+# Ignore .tf files containing a terraform snippet
+*.tf.snippet
+
+# Ignore files used to improve terraform.io
+.terraformignore
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files that are written to disk automatically
+*.tfvars
+
+# .tfplan files
+*.tfplan
+
+# Crash log files
+crash.log
+
+# Ignore override files as they are usually used to override resources locally and so
+# are not checked in
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Include override files you do wish to add to version control using negated pattern
+#
+# !example_override.tf
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+
+# Ignore .tf files containing a terraform snippet
+*.tf.snippet
+
+# Ignore files used to improve terraform.io
+.terraformignore
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files that are written to disk automatically
+*.tfvars
+
+# .tfplan files
+*.tfplan
+
+# Crash log files
+crash.log
+
+# Ignore override files as they are usually used to override resources locally and so
+# are not checked in
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Include override files you do wish to add to version control using negated pattern
+#
+# !example_override.tf
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+
+# Ignore .tf files containing a terraform snippet
+*.tf.snippet
+
+# Ignore files used to improve terraform.io
+.terraformignore
+
